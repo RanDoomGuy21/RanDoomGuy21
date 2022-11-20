@@ -1,8 +1,1 @@
-- 👋 balls
-- 👀 balls
-- 🌱 balls
-- 💞️ balls
-- 📫 balls
-<!---
-balls
---->
+Proffessional idiot
